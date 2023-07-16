@@ -1,0 +1,17 @@
+# Arquivos do Rider / Visual Studio
+.idea/
+
+# Diretórios de build
+bin/
+obj/
+
+# Arquivos de configuração
+appsettings.Development.json
+appsettings.json
+
+# Pacotes NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
